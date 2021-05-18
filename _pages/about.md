@@ -18,8 +18,6 @@ I'm a PhD candidate in Computational Linguistics at Georgetown University, expec
 
 My main research interest is evaluation of natural language generation, and I also enjoy corpus linguistics. Beyond research, I'm very interested in teaching, and in [communicating](https://lingcomm.org/) about linguistics and NLP to a broader audience!
 
-You can see my CV [here](assets/pdf/CV.pdf).
-
 ### referring to me
 
 I pronounce my name /ˈɛmə ˈmænɪŋ/. 
