@@ -17,6 +17,4 @@ Course Description:
 
 This was an intensive, 3-week-long summer course for 12-to-16 year-old students. With 7 hours per day in the classroom, keeping it exciting is essential, and I loved finding ways to teaching introductory linguistics concepts through games and other interactive activities. 
 
-In 2019, I summarized each day's activities in a tweet thread that you can read by clicked through below:
-
-{% twitter https://twitter.com/EmmaSManning/status/1155980545572003842 %}
+In 2019, I summarized each day's activities in a [tweet thread](https://twitter.com/EmmaSManning/status/1150975503613997056).
