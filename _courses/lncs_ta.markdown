@@ -4,7 +4,7 @@ title: "Linguistics: The Science of Language"
 description: Johns Hopkins Center for Talented Youth, Summer 2017
 img: /assets/img/lncs_poster.jpg
 importance: 4
-category: Teaching Assistant
+category: teaching assistant
 ---
 
 Course Description:

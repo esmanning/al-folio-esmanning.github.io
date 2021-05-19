@@ -4,7 +4,7 @@ title: Introduction to Linguistics
 description: Online for High Schoolers, Fall 2020
 img: /assets/img/howmanylanguages.png
 importance: 1
-category: Instructor
+category: instructor
 ---
 
 Course description:

@@ -4,7 +4,7 @@ title: Fundamentals of Computer Science
 description: Johns Hopkins Center for Talented Youth, Summer 2017 & 2018
 img: /assets/img/fcps_poster.jpg
 importance: 3
-category: Teaching Assistant
+category: teaching assistant
 ---
 
 Course Description

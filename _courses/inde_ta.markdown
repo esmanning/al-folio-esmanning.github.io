@@ -4,7 +4,7 @@ title: Inductive and Deductive Reasoning
 description: Johns Hopkins Center for Talented Youth, Summer 2013 & 2015
 img:
 importance: 5
-category: Teaching Assistant
+category: teaching assistant
 ---
 
 Course Description:

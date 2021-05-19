@@ -4,7 +4,7 @@ title: Introduction to Natural Language Processing
 description: Georgetown University, Fall 2017 & 2019
 img:
 importance: 2
-category: Teaching Assistant
+category: teaching assistant
 ---
 
 Course Description:

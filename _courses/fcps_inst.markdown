@@ -4,7 +4,7 @@ title: Fundamentals of Computer Science
 description: Johns Hopkins Center for Talented Youth, Summer 2019
 img: /assets/img/debugging.jpg
 importance: 3
-category: Instructor
+category: instructor
 ---
 
 Course Description:

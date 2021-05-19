@@ -4,7 +4,7 @@ title: Computational Corpus Linguistics
 description: Georgetown University, Fall 2016 & 2018
 img: /assets/img/gum.png
 importance: 3
-category: Teaching Assistant
+category: teaching assistant
 ---
 
 Course Description:

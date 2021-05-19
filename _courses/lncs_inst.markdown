@@ -4,7 +4,7 @@ title: "Linguistics: The Science of Language"
 description: Johns Hopkins Center for Talented Youth, Summer 2018 & 2019
 img: /assets/img/palatography.jpeg
 importance: 2
-category: Instructor
+category: instructor
 ---
 
 Course Description:
