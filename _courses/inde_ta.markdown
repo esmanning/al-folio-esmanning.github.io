@@ -2,7 +2,7 @@
 layout: page
 title: Inductive and Deductive Reasoning
 description: Johns Hopkins Center for Talented Youth, Summer 2013 & 2015
-img:
+img: /assets/img/pascalmod6.jpg
 importance: 5
 category: teaching assistant
 ---

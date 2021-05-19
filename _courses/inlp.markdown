@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to Natural Language Processing
 description: Georgetown University, Fall 2017 & 2019
-img:
+img: /assets/img/viterbi.png
 importance: 2
 category: teaching assistant
 ---
