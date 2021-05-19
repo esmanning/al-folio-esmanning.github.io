@@ -2,7 +2,7 @@
 layout: page
 title: Cross-Stitching
 description:
-img: /assets/img/garden5.jpeg
+img: /assets/img/deer_progress.jpg
 importance: 1
 category: fun
 ---
