@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses I've taught & TAed
+description: Courses I've taught & TAed.
 display_categories: [Instructor, Teaching Assistant]
 nav: true
 horizontal: false
