@@ -14,7 +14,7 @@ Relevant non-archival presentations:
 * Referenceless Evaluation of Natural Language Generation from Meaning Representations, [MASC-SLL 2020](http://www.mascsll.org/)
 * A Rule-Based and Statistical Approach to AMR Generation, [MASC-SLL 2018](https://sites.google.com/site/studentcolloquiumsll/2018)
 
-I finished a ful draft of the dissertation in May 2021 and plan to defend it in Summer 2021.
+I successfully defended on June 4, 2021! Stay tuned for a final edited version, and for at least one more related publication eventually :)
 
 ---
 
