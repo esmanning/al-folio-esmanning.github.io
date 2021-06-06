@@ -23,5 +23,3 @@ My main research interest is evaluation of natural language generation, and I al
 I pronounce my name /ˈɛmə ˈmænɪŋ/. 
 
 When referring to me with [third-person pronouns](https://kconrod.medium.com/pronouns-101-introduction-to-your-loved-ones-new-pronouns-3fef080266d0) in English, please use either they/them or he/him. If you're talking about me in a language other than English that marks gender grammatically, any non-feminine forms are fine.
-
-As far as titles, I use the gender-neutral title 'Mx.' for now, though I hope to replace that soon with 'Dr.'
