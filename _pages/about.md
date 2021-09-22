@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD candidate in Computational Linguistics at Georgetown University, expecting to graduate in August 2021. [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/) is my advisor, and I'm a member of [NERT](http://nert.georgetown.edu/) and [GUCL](http://gucl.georgetown.edu/).
+I'm a PhD candidate in Computational Linguistics at Georgetown University, expecting to graduate in December 2021. [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/) is my advisor, and I'm a member of [NERT](http://nert.georgetown.edu/) and [GUCL](http://gucl.georgetown.edu/).
 
 My main research interest is evaluation of natural language generation, and I also enjoy corpus linguistics. Beyond research, I'm very interested in teaching, and in [communicating](https://lingcomm.org/) about linguistics and NLP to a broader audience!
 
