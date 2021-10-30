@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Computational Linguistics PhD Candidate at Georgetown University
-
+description: Linguist at Google, NLG evaluation nerd
 profile:
   align: right
   image: prof_pic.jpg
@@ -14,7 +13,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD candidate in Computational Linguistics at Georgetown University, expecting to graduate in December 2021. [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/) is my advisor, and I'm a member of [NERT](http://nert.georgetown.edu/) and [GUCL](http://gucl.georgetown.edu/).
+As of October 2021, I'm a Linguist at Google, working on Natural Language Generation for Google Assistant.
+
+I'm also, for now, still a PhD candidate in Computational Linguistics at Georgetown University, expecting to graduate in December 2021. [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/) is my advisor, and I'm a member of [NERT](http://nert.georgetown.edu/) and [GUCL](http://gucl.georgetown.edu/).
 
 My main research interest is evaluation of natural language generation, and I also enjoy corpus linguistics. Beyond research, I'm very interested in teaching, and in [communicating](https://lingcomm.org/) about linguistics and NLP to a broader audience!
 
