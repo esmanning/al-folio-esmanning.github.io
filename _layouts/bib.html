@@ -35,12 +35,20 @@
           {% else %}
             {% unless forloop.last %}
               {% if author_is_self %}
-                <em>{{author.first}} {{author.last}}</em>,
+              	{% if forloop.length == 2 %}
+              		<em>{{author.first}} {{author.last}}</em>
+              	{% else %}
+                	<em>{{author.first}} {{author.last}}</em>,
+                {% endif %}
               {% else %}
                 {% if coauthor_url %}
                   <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>,
                 {% else %}
-                  {{author.first}} {{author.last}},
+                	{% if forloop.length == 2 %}
+                		{{author.first}} {{author.last}}
+                	{% else %}
+                  	{{author.first}} {{author.last}},
+                	{% endif %}
                 {% endif %}
               {% endif %}
             {% else %}
