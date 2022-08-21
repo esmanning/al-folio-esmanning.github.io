@@ -13,14 +13,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As of October 2021, I'm a Linguist at Google, working on Natural Language Generation for Google Assistant.
+As of October 2021, I'm a Linguist at Google in NYC. I work on natural language generation (NLG) for Google Assistant, with a focus on evaluation.
 
-I'm also, for now, still a PhD candidate in Computational Linguistics at Georgetown University, expecting to graduate in December 2021. [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/) is my advisor, and I'm a member of [NERT](http://nert.georgetown.edu/) and [GUCL](http://gucl.georgetown.edu/).
+Before that, I got a PhD in Computational Linguistics at Georgetown University (graduated December 2021).
+[Nathan Schneider](http://people.cs.georgetown.edu/nschneid/) was my advisor, and I was a member of [NERT](http://nert.georgetown.edu/) and [GUCL](http://gucl.georgetown.edu/).
 
-My main research interest is evaluation of natural language generation, and I also enjoy corpus linguistics. Beyond research, I'm very interested in teaching, and in [communicating](https://lingcomm.org/) about linguistics and NLP to a broader audience!
+While not part of my current position, I've previously enjoyed teaching, especially when it allows me to introduce linguistics to broader audiences like high schoolers. Check out the Teaching page for info on courses I've taught and TAed in the past!
 
 ### referring to me
 
-I pronounce my name /ˈɛmə ˈmænɪŋ/. 
+My name is Emma for professional purposes, including on publications. I've also been trying out some more gender-neutral nicknames, particularly Ember; feel free to call me these in informal settings, especially if we're friends.
 
-When referring to me with [third-person pronouns](https://kconrod.medium.com/pronouns-101-introduction-to-your-loved-ones-new-pronouns-3fef080266d0) in English, please use either they/them or he/him. If you're talking about me in a language other than English that marks gender grammatically, any non-feminine forms are fine.
+I pronounce my name /ˈɛmə ˈmænɪŋ/.
+
+When referring to me with [third-person pronouns](https://kconrod.medium.com/pronouns-101-introduction-to-your-loved-ones-new-pronouns-3fef080266d0) in English, please use either he/him or they/them. If you're talking about me in a language other than English that marks gender grammatically, any non-feminine forms are fine.
