@@ -43,7 +43,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: esmanning
 gitlab_username: # your GitLab user name
-twitter_username: # no
+twitter_username: #
 linkedin_username: emma-s-manning
 scholar_userid: # your Google Scholar ID
 semanticscholar: Emma-Sophia-Manning/69465819
