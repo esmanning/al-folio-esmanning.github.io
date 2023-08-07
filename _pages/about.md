@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Computation Linguist, NLG evaluation nerd
+description: Computational Linguist
 profile:
   align: right
   image: prof_pic.jpg
