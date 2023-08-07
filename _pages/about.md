@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Linguist at Google, NLG evaluation nerd
+description: Computation Linguist, NLG evaluation nerd
 profile:
   align: right
   image: prof_pic.jpg
@@ -13,7 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As of October 2021, I'm a Linguist at Google in NYC. I work on natural language generation (NLG) for Google Assistant, with a focus on evaluation.
+Since October 2021, I've been a Linguist at Google in NYC. I work on natural language generation (NLG) for Google Assistant, with a focus on evaluation methods and dataset quality. I'm currently seeking my next adventure!
 
 Before that, I got a PhD in Computational Linguistics at Georgetown University (graduated December 2021).
 [Nathan Schneider](http://people.cs.georgetown.edu/nschneid/) was my advisor, and I was a member of [NERT](http://nert.georgetown.edu/) and [GUCL](http://gucl.georgetown.edu/).
