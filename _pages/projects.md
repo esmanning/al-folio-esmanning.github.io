@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of the cool things I've made and contributed to.
+description: Some of the cool things I've made and contributed to. Caveat: None of this page has been updated since around 2021.
 nav: true
 display_categories: [work, fun]
 horizontal: false
